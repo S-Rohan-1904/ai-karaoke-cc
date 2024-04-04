@@ -1,0 +1,22 @@
+.container {
+    background-color: #313131;
+    border-radius: 15px;
+    display: grid;
+    grid-template-columns: 5rem auto;
+    padding: 1.5rem;
+}
+
+.option label {
+    padding-left: 0.5rem;
+}
+
+.option {
+    padding-right: 4rem;
+}
+
+.question {
+    padding-bottom: 1rem;
+}
+.question-container {
+    font-size: 1.25rem;
+}

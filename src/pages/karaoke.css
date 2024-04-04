@@ -1,0 +1,12 @@
+iframe {
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    width: 80%;
+}
+.player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80%;
+}
